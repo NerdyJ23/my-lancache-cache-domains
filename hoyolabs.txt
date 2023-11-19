@@ -1,0 +1,2 @@
+*.starrails.com
+*.starrails.com.wsdvs.com
